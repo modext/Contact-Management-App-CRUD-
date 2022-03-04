@@ -7,6 +7,7 @@ import ContactList from './components/Contacts/ContactList/ContactList';
 import EditContact from './components/Contacts/EditContact/EditContact';
 import ViewContact from './components/Contacts/ViewContact/ViewContact';
 import NavBar from './components/NavBar/NavBar';
+import Spinner from './components/spinner/Spinner';
 
 
 function App() {
