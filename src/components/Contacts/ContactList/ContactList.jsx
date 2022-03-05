@@ -84,9 +84,9 @@ function ContactList() {
                             <div className="column">
                                 <p className="h3">Contact Manager
                                     <Link to={'/contacts/add'} className="btn btn-primary ms-2">
-                                        <i className="fa fa-plus-circle me-2"></i> New </Link> 
+                                        <i className="fa fa-plus-circle me-2"></i> Add New Contact </Link> 
                                 </p>
-                                <p className="fst-italic">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis labore rem corrupti optio incidunt harum cum eius, voluptas facere impedit?</p>
+                                <p className="fst-italic">Have your contacts all in one place, make every person matter, give all a sense of belonging. Hey Friend!!!</p>
                             </div>
                         </div>
                         <div className="row">
