@@ -1,12 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&family=Barlow:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
 body {
   font-family: "Ubuntu",sans-serif !important;
-  background-color: #f2edd0;
+  position: relative;
+  background-image: linear-gradient(135deg, #f97794 10%, #623aa2 100%);
 }
 
 .contact-img {
   width: 150px;
   height: 150px;
   border-radius: 50%;
+}
+
+.fa-mobile {
+  color: purple;
+}
+
+.navbar-brand{
+  font-family: 'Comfortaa', cursive;
+}
+.text-warning{
+  font-family: 'Arizonia', cursive;
 }
