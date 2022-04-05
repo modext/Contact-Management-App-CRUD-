@@ -74,7 +74,7 @@ function AddContact() {
                     <div className="row">
                         <div className="col">
                             <p className="h4 text-success fw-bold">Create Contact</p>
-                            <p className="fst-italic">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum esse rem dicta pariatur, consectetur eligendi incidunt iste veniam eius voluptatem!</p>
+                            <p className="fst-italic">Add another awesome person to your  contact list.</p>
                         </div>
                         <div className="row">
                             <div className="col-md-4">
